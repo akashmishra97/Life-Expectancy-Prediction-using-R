@@ -20,9 +20,9 @@ The project consists of the following steps:
 **Model Improvement**: Based on the VIF values, variables with high multicollinearity were identified and removed from the model to improve its accuracy. Stepwise regression method was used to further refine the model.
 
 ## **File Descriptions**
-Life Expectancy Data.csv: The original dataset used in the project.
-Life_Expectancy_Prediction.R: The R code file containing the code for data analysis, visualization, and model building.
-README.md: The current file providing an overview of the project and instructions for its usage.
+**Life Expectancy Data.csv** : The original dataset used in the project.
+**Life_ExpectancyAnalysis.R** : The R code file containing the code for data analysis, visualization, and model building.
+**README.md** : The current file providing an overview of the project and instructions for its usage.
 
 ## **Usage**
 To run the R code in this project, you will need to have R and the following packages installed: rio, car, and corrplot. You can install these packages using the following commands in R:
